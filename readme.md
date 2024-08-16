@@ -27,4 +27,14 @@ The Teacher Portal is a web application that allows teachers to manage student i
    ```bash
    git clone https://github.com/yourusername/teacher-portal.git
    cd teacher-portal
-# teacher-portal-assignment
+
+
+# snapshots
+Teacher login form
+![login Page](./teachers/snapshots/login_page.png)
+Teacher login Erro form
+![Login Error page](teachers/snapshots/login_error.png)
+Dashboard page
+![Dashboard Page](./teachers/snapshots/dashboard_page.png)
+Add Student
+![Add Student Page](./teachers/snapshots/add_student_page.png)
